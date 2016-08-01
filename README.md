@@ -1,0 +1,2 @@
+# AjaxExample
+Ajax on rails 
